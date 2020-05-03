@@ -16,3 +16,10 @@
 4）允许浇水的好友数组  
   var waterFriendList = ["小猪佩奇","懒羊羊"] //浇水的 好友列表  
   var ownName = "自己的名字" //自己的名字
+  
+6) 个人手机密码解锁
+unlock()
+
+更详细介绍：
+csdn:
+https://blog.csdn.net/qq_27061049/article/details/105879506
