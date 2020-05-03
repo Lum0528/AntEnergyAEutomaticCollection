@@ -1,6 +1,5 @@
 # AntEnergyAEutomaticCollection
-1） 适配 个人 手机屏幕
-若采用区域间隔点选收集能量，适配个人手机能量区域
+1） 适配 个人 手机屏幕若采用区域间隔点选收集能量，适配个人手机能量区域
 var boundTopY = 560 ;   //能量区域上 自己手机上的能量区域 需要更改本机适配 
 var boundBomY =  820;   //能量区域下
 var boundLeftX = 150;   //能量区域左
